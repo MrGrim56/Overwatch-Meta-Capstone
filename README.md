@@ -3,7 +3,8 @@ Capstone project for Google Certification
 # Overwatch 2: Competitive Meta Viability Analysis
 **Google Data Analytics Professional Certificate — Capstone Project (Track B)**
 
-[![Looker Studio](https://img.shields.io/badge/Looker_Studio-Interactive_Dashboard-blue)](YOUR_LOOKER_STUDIO_SHARE_LINK_HERE)
+[![Looker Studio](https://img.shields.io/badge/Looker_Studio-Interactive_Dashboard-blue)]
+([LOOKER_STUDIO_SHARE_LINK_HERE](https://datastudio.google.com/reporting/d11c3ea2-c522-43e9-8805-13d97880524d))
 [![BigQuery](https://img.shields.io/badge/Google_Cloud-BigQuery-orange)](#)
 
 ---
