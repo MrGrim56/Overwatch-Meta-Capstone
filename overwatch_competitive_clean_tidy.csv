@@ -1,0 +1,425 @@
+Rank,Hero,Role,Win_Rate,Pick_Rate,Ban_Rate
+Bronze,D.MON,Tank,55.1,8.1,21.8
+Bronze,D.VA,Tank,45.7,10.2,3.0
+Bronze,DOMINA,Tank,50.0,5.7,4.9
+Bronze,DOOMFIST,Tank,53.7,3.6,15.9
+Bronze,HAZARD,Tank,50.2,2.2,0.6
+Bronze,JUNKER QUEEN,Tank,53.1,3.6,0.5
+Bronze,MAUGA,Tank,43.1,4.8,17.8
+Bronze,ORISA,Tank,45.5,14.4,11.1
+Bronze,RAMATTRA,Tank,50.4,11.4,9.3
+Bronze,REINHARDT,Tank,53.6,12.0,6.0
+Bronze,ROADHOG,Tank,47.0,4.8,10.0
+Bronze,SIGMA,Tank,49.2,10.7,4.7
+Bronze,WINSTON,Tank,52.3,3.9,5.2
+Bronze,WRECKING BALL,Tank,52.6,2.0,9.6
+Bronze,ZARYA,Tank,48.1,2.4,41.3
+Bronze,ANRAN,Damage,51.5,10.6,29.1
+Bronze,ASHE,Damage,50.0,9.8,0.6
+Bronze,BASTION,Damage,47.9,18.7,3.8
+Bronze,CASSIDY,Damage,49.3,9.1,1.0
+Bronze,ECHO,Damage,46.9,4.2,0.6
+Bronze,EMRE,Damage,47.4,6.4,0.1
+Bronze,FREJA,Damage,46.9,5.5,1.5
+Bronze,GENJI,Damage,52.6,7.2,3.3
+Bronze,HANZO,Damage,49.5,7.3,0.6
+Bronze,JUNKRAT,Damage,49.6,14.4,8.5
+Bronze,MEI,Damage,51.9,9.2,9.4
+Bronze,PHARAH,Damage,49.3,5.3,8.1
+Bronze,REAPER,Damage,52.1,9.0,2.6
+Bronze,SHION,Damage,49.1,10.3,1.2
+Bronze,SIERRA,Damage,50.4,18.3,29.6
+Bronze,SOJOURN,Damage,43.7,10.4,0.3
+Bronze,SOLDIER: 76,Damage,49.0,14.7,0.6
+Bronze,SOMBRA,Damage,49.0,2.2,69.8
+Bronze,SYMMETRA,Damage,50.1,3.0,3.2
+Bronze,Torbjörn,Damage,52.8,6.1,0.9
+Bronze,TRACER,Damage,50.4,4.7,9.6
+Bronze,VENDETTA,Damage,54.8,5.5,9.4
+Bronze,VENTURE,Damage,52.6,2.3,0.4
+Bronze,WIDOWMAKER,Damage,48.0,5.5,9.8
+Bronze,ANA,Support,49.2,15.2,5.9
+Bronze,BAPTISTE,Support,47.6,5.4,0.2
+Bronze,BRIGITTE,Support,52.1,3.6,0.2
+Bronze,ILLARI,Support,48.8,5.5,0.1
+Bronze,JETPACK CAT,Support,51.7,5.0,54.2
+Bronze,JUNO,Support,50.5,29.2,0.8
+Bronze,KIRIKO,Support,46.1,24.0,1.0
+Bronze,LIFEWEAVER,Support,47.5,12.6,0.3
+Bronze,LUCIO,Support,50.1,7.6,0.4
+Bronze,MERCY,Support,47.5,21.7,6.5
+Bronze,MIZUKI,Support,52.5,15.2,1.0
+Bronze,MOIRA,Support,51.9,39.2,13.9
+Bronze,WUYANG,Support,49.0,5.7,0.1
+Bronze,ZENYATTA,Support,52.0,10.0,1.0
+Silver,D.MON,Tank,54.7,8.0,21.5
+Silver,D.VA,Tank,45.2,7.1,2.0
+Silver,DOMINA,Tank,50.0,5.1,5.2
+Silver,DOOMFIST,Tank,53.6,4.3,17.4
+Silver,HAZARD,Tank,50.6,2.1,0.8
+Silver,JUNKER QUEEN,Tank,52.5,3.9,0.4
+Silver,MAUGA,Tank,43.5,4.8,19.1
+Silver,ORISA,Tank,45.1,13.4,10.2
+Silver,RAMATTRA,Tank,49.7,11.6,10.9
+Silver,REINHARDT,Tank,53.7,13.3,3.8
+Silver,ROADHOG,Tank,46.1,5.7,10.0
+Silver,SIGMA,Tank,49.1,10.7,3.8
+Silver,WINSTON,Tank,51.5,4.7,4.9
+Silver,WRECKING BALL,Tank,51.7,1.9,7.4
+Silver,ZARYA,Tank,48.8,3.1,54.1
+Silver,ANRAN,Damage,51.9,9.6,33.6
+Silver,ASHE,Damage,50.4,10.2,0.9
+Silver,BASTION,Damage,47.3,18.7,5.1
+Silver,CASSIDY,Damage,48.5,11.4,1.6
+Silver,ECHO,Damage,47.1,3.6,0.5
+Silver,EMRE,Damage,47.5,6.2,0.2
+Silver,FREJA,Damage,46.5,4.7,3.0
+Silver,GENJI,Damage,52.7,7.2,3.1
+Silver,HANZO,Damage,50.5,7.3,0.6
+Silver,JUNKRAT,Damage,50.1,13.6,7.2
+Silver,MEI,Damage,50.7,10.2,8.8
+Silver,PHARAH,Damage,50.0,4.8,8.9
+Silver,REAPER,Damage,51.3,10.7,2.1
+Silver,SHION,Damage,48.6,9.1,1.1
+Silver,SIERRA,Damage,49.8,16.6,28.8
+Silver,SOJOURN,Damage,44.0,9.3,0.4
+Silver,SOLDIER: 76,Damage,48.6,16.3,0.6
+Silver,SOMBRA,Damage,48.8,2.6,59.8
+Silver,SYMMETRA,Damage,48.8,3.2,3.8
+Silver,Torbjörn,Damage,51.7,6.4,1.0
+Silver,TRACER,Damage,51.1,4.9,6.1
+Silver,VENDETTA,Damage,55.1,6.1,9.2
+Silver,VENTURE,Damage,51.8,2.4,0.5
+Silver,WIDOWMAKER,Damage,49.1,4.6,5.5
+Silver,ANA,Support,49.1,19.6,9.6
+Silver,BAPTISTE,Support,47.0,6.1,0.2
+Silver,BRIGITTE,Support,50.8,4.2,0.1
+Silver,ILLARI,Support,48.7,5.2,0.1
+Silver,JETPACK CAT,Support,50.5,5.4,47.7
+Silver,JUNO,Support,51.4,24.8,0.5
+Silver,KIRIKO,Support,45.2,24.1,1.6
+Silver,LIFEWEAVER,Support,48.6,13.2,0.3
+Silver,LUCIO,Support,50.3,6.6,0.5
+Silver,MERCY,Support,48.3,18.8,5.7
+Silver,MIZUKI,Support,52.1,16.1,1.8
+Silver,MOIRA,Support,50.6,40.2,8.5
+Silver,WUYANG,Support,49.9,4.9,0.1
+Silver,ZENYATTA,Support,52.5,10.6,1.2
+Gold,D.MON,Tank,54.7,7.8,22.8
+Gold,D.VA,Tank,45.5,5.5,1.8
+Gold,DOMINA,Tank,50.1,4.9,4.9
+Gold,DOOMFIST,Tank,53.1,5.3,19.6
+Gold,HAZARD,Tank,50.8,2.4,1.1
+Gold,JUNKER QUEEN,Tank,52.8,4.2,0.4
+Gold,MAUGA,Tank,43.7,4.5,20.8
+Gold,ORISA,Tank,44.7,12.4,9.3
+Gold,RAMATTRA,Tank,48.5,10.8,10.5
+Gold,REINHARDT,Tank,53.7,13.9,2.5
+Gold,ROADHOG,Tank,46.9,6.6,14.0
+Gold,SIGMA,Tank,48.8,10.3,3.2
+Gold,WINSTON,Tank,50.8,5.3,4.7
+Gold,WRECKING BALL,Tank,51.9,2.1,7.7
+Gold,ZARYA,Tank,47.3,3.8,54.5
+Gold,ANRAN,Damage,52.0,8.8,34.8
+Gold,ASHE,Damage,51.2,11.3,1.5
+Gold,BASTION,Damage,46.7,16.3,6.1
+Gold,CASSIDY,Damage,47.5,14.7,3.5
+Gold,ECHO,Damage,48.3,3.3,0.4
+Gold,EMRE,Damage,47.0,6.2,0.2
+Gold,FREJA,Damage,46.6,4.6,6.8
+Gold,GENJI,Damage,53.0,8.5,3.8
+Gold,HANZO,Damage,50.8,7.6,0.8
+Gold,JUNKRAT,Damage,50.4,11.8,5.1
+Gold,MEI,Damage,50.0,10.2,7.2
+Gold,PHARAH,Damage,50.8,4.2,7.1
+Gold,REAPER,Damage,50.1,11.3,1.9
+Gold,SHION,Damage,49.2,8.5,1.0
+Gold,SIERRA,Damage,49.6,15.1,24.5
+Gold,SOJOURN,Damage,44.5,9.4,0.6
+Gold,SOLDIER: 76,Damage,48.5,17.6,0.5
+Gold,SOMBRA,Damage,48.8,3.1,45.2
+Gold,SYMMETRA,Damage,48.4,3.2,3.8
+Gold,Torbjörn,Damage,51.2,5.7,0.8
+Gold,TRACER,Damage,51.1,5.7,5.0
+Gold,VENDETTA,Damage,55.2,5.7,8.1
+Gold,VENTURE,Damage,51.4,2.4,0.5
+Gold,WIDOWMAKER,Damage,50.8,4.7,4.9
+Gold,ANA,Support,49.3,25.3,13.0
+Gold,BAPTISTE,Support,47.7,7.3,0.2
+Gold,BRIGITTE,Support,50.8,4.4,0.1
+Gold,ILLARI,Support,49.0,4.9,0.1
+Gold,JETPACK CAT,Support,50.7,5.4,45.1
+Gold,JUNO,Support,51.7,22.3,0.4
+Gold,KIRIKO,Support,44.1,25.5,2.7
+Gold,LIFEWEAVER,Support,48.8,14.2,0.5
+Gold,LUCIO,Support,50.8,5.5,0.5
+Gold,MERCY,Support,49.4,16.8,5.3
+Gold,MIZUKI,Support,51.6,15.4,3.2
+Gold,MOIRA,Support,49.8,37.2,4.9
+Gold,WUYANG,Support,51.2,4.9,0.1
+Gold,ZENYATTA,Support,52.5,10.9,1.6
+Platinum,D.MON,Tank,55.3,7.9,26.6
+Platinum,D.VA,Tank,46.0,5.0,2.4
+Platinum,DOMINA,Tank,50.5,4.3,3.8
+Platinum,DOOMFIST,Tank,52.5,7.0,22.3
+Platinum,HAZARD,Tank,51.0,2.8,2.1
+Platinum,JUNKER QUEEN,Tank,52.8,4.6,0.4
+Platinum,MAUGA,Tank,43.7,4.2,22.5
+Platinum,ORISA,Tank,44.7,10.7,8.1
+Platinum,RAMATTRA,Tank,47.6,9.1,8.4
+Platinum,REINHARDT,Tank,53.1,13.6,1.8
+Platinum,ROADHOG,Tank,47.0,7.1,19.8
+Platinum,SIGMA,Tank,48.9,9.5,3.0
+Platinum,WINSTON,Tank,51.2,6.4,4.5
+Platinum,WRECKING BALL,Tank,51.4,2.7,9.9
+Platinum,ZARYA,Tank,45.7,4.7,44.2
+Platinum,ANRAN,Damage,51.8,7.9,31.3
+Platinum,ASHE,Damage,51.2,12.4,2.3
+Platinum,BASTION,Damage,46.5,13.5,6.4
+Platinum,CASSIDY,Damage,46.6,18.5,7.0
+Platinum,ECHO,Damage,49.3,3.3,0.3
+Platinum,EMRE,Damage,47.8,6.3,0.2
+Platinum,FREJA,Damage,46.7,4.5,15.6
+Platinum,GENJI,Damage,52.9,10.9,4.7
+Platinum,HANZO,Damage,50.8,7.8,1.3
+Platinum,JUNKRAT,Damage,51.0,9.6,3.6
+Platinum,MEI,Damage,49.2,9.1,5.1
+Platinum,PHARAH,Damage,51.7,3.8,4.8
+Platinum,REAPER,Damage,49.4,11.0,1.7
+Platinum,SHION,Damage,49.8,8.4,0.9
+Platinum,SIERRA,Damage,49.2,12.8,17.1
+Platinum,SOJOURN,Damage,45.1,10.4,1.1
+Platinum,SOLDIER: 76,Damage,48.8,17.6,0.5
+Platinum,SOMBRA,Damage,48.1,3.6,28.5
+Platinum,SYMMETRA,Damage,48.2,2.7,3.0
+Platinum,Torbjörn,Damage,51.4,5.0,0.6
+Platinum,TRACER,Damage,51.2,7.6,5.7
+Platinum,VENDETTA,Damage,54.8,5.5,6.5
+Platinum,VENTURE,Damage,51.2,2.3,0.6
+Platinum,WIDOWMAKER,Damage,51.9,5.1,6.2
+Platinum,ANA,Support,49.8,31.9,13.4
+Platinum,BAPTISTE,Support,48.3,8.4,0.2
+Platinum,BRIGITTE,Support,50.6,4.8,0.1
+Platinum,ILLARI,Support,49.6,4.3,0.1
+Platinum,JETPACK CAT,Support,51.0,5.7,46.6
+Platinum,JUNO,Support,52.0,21.8,0.3
+Platinum,KIRIKO,Support,43.6,27.5,3.7
+Platinum,LIFEWEAVER,Support,48.8,13.9,0.6
+Platinum,LUCIO,Support,51.4,4.9,0.4
+Platinum,MERCY,Support,50.5,15.1,5.7
+Platinum,MIZUKI,Support,50.5,13.6,5.7
+Platinum,MOIRA,Support,49.6,31.4,2.8
+Platinum,WUYANG,Support,51.5,5.4,0.1
+Platinum,ZENYATTA,Support,52.2,11.1,2.3
+Emerald,D.MON,Tank,55.5,8.0,33.6
+Emerald,D.VA,Tank,46.3,5.0,4.0
+Emerald,DOMINA,Tank,51.5,3.5,2.2
+Emerald,DOOMFIST,Tank,51.5,9.1,22.6
+Emerald,HAZARD,Tank,51.6,3.9,4.0
+Emerald,JUNKER QUEEN,Tank,53.1,5.1,0.4
+Emerald,MAUGA,Tank,44.1,3.9,23.7
+Emerald,ORISA,Tank,44.5,8.4,6.3
+Emerald,RAMATTRA,Tank,46.3,6.8,5.3
+Emerald,REINHARDT,Tank,52.3,12.6,1.3
+Emerald,ROADHOG,Tank,47.0,7.3,24.8
+Emerald,SIGMA,Tank,49.2,8.5,3.1
+Emerald,WINSTON,Tank,51.5,8.1,4.0
+Emerald,WRECKING BALL,Tank,50.4,4.0,12.0
+Emerald,ZARYA,Tank,46.0,5.5,30.6
+Emerald,ANRAN,Damage,51.9,7.0,22.6
+Emerald,ASHE,Damage,51.4,12.4,2.2
+Emerald,BASTION,Damage,46.7,10.5,5.7
+Emerald,CASSIDY,Damage,46.2,22.6,11.5
+Emerald,ECHO,Damage,50.3,3.5,0.3
+Emerald,EMRE,Damage,48.0,6.3,0.2
+Emerald,FREJA,Damage,47.4,4.4,28.9
+Emerald,GENJI,Damage,51.9,13.8,4.6
+Emerald,HANZO,Damage,50.4,7.5,1.6
+Emerald,JUNKRAT,Damage,52.0,7.4,2.4
+Emerald,MEI,Damage,49.0,7.4,2.7
+Emerald,PHARAH,Damage,52.9,3.6,3.3
+Emerald,REAPER,Damage,49.2,10.0,1.6
+Emerald,SHION,Damage,50.5,9.5,0.6
+Emerald,SIERRA,Damage,48.6,9.6,8.1
+Emerald,SOJOURN,Damage,45.6,12.4,1.7
+Emerald,SOLDIER: 76,Damage,49.6,16.8,0.3
+Emerald,SOMBRA,Damage,47.6,4.2,13.5
+Emerald,SYMMETRA,Damage,48.4,2.2,1.7
+Emerald,Torbjörn,Damage,51.1,4.3,0.5
+Emerald,TRACER,Damage,51.3,11.0,8.3
+Emerald,VENDETTA,Damage,54.2,5.5,4.7
+Emerald,VENTURE,Damage,51.9,2.2,0.5
+Emerald,WIDOWMAKER,Damage,52.0,5.7,8.6
+Emerald,ANA,Support,50.2,39.0,10.9
+Emerald,BAPTISTE,Support,48.7,8.9,0.2
+Emerald,BRIGITTE,Support,51.1,5.7,0.2
+Emerald,ILLARI,Support,50.1,3.9,0.1
+Emerald,JETPACK CAT,Support,51.3,5.9,53.1
+Emerald,JUNO,Support,52.2,21.5,0.3
+Emerald,KIRIKO,Support,43.2,28.9,4.9
+Emerald,LIFEWEAVER,Support,48.9,12.4,0.9
+Emerald,LUCIO,Support,51.5,4.9,0.3
+Emerald,MERCY,Support,51.8,14.3,7.5
+Emerald,MIZUKI,Support,49.6,12.3,8.7
+Emerald,MOIRA,Support,49.3,24.7,1.8
+Emerald,WUYANG,Support,51.6,6.3,0.1
+Emerald,ZENYATTA,Support,52.1,11.3,2.8
+Diamond,D.MON,Tank,55.8,7.9,43.5
+Diamond,D.VA,Tank,46.7,5.5,6.2
+Diamond,DOMINA,Tank,51.8,2.7,1.0
+Diamond,DOOMFIST,Tank,50.6,11.4,19.3
+Diamond,HAZARD,Tank,52.2,5.5,6.4
+Diamond,JUNKER QUEEN,Tank,53.2,5.5,0.6
+Diamond,MAUGA,Tank,45.3,4.2,24.7
+Diamond,ORISA,Tank,44.9,6.6,4.5
+Diamond,RAMATTRA,Tank,46.2,4.8,2.7
+Diamond,REINHARDT,Tank,51.2,9.9,1.3
+Diamond,ROADHOG,Tank,47.0,6.9,24.2
+Diamond,SIGMA,Tank,49.2,7.7,3.5
+Diamond,WINSTON,Tank,51.9,9.6,3.0
+Diamond,WRECKING BALL,Tank,48.6,5.2,10.3
+Diamond,ZARYA,Tank,47.0,6.3,21.3
+Diamond,ANRAN,Damage,50.8,5.7,11.0
+Diamond,ASHE,Damage,51.7,11.0,1.3
+Diamond,BASTION,Damage,47.0,7.9,4.0
+Diamond,CASSIDY,Damage,45.7,25.8,15.5
+Diamond,ECHO,Damage,51.1,3.8,0.3
+Diamond,EMRE,Damage,48.4,6.2,0.2
+Diamond,FREJA,Damage,48.1,4.6,38.7
+Diamond,GENJI,Damage,51.7,15.9,3.1
+Diamond,HANZO,Damage,50.0,6.3,1.3
+Diamond,JUNKRAT,Damage,52.9,5.5,1.6
+Diamond,MEI,Damage,48.8,5.3,1.1
+Diamond,PHARAH,Damage,53.7,3.6,2.7
+Diamond,REAPER,Damage,49.3,9.2,1.5
+Diamond,SHION,Damage,50.8,12.0,0.6
+Diamond,SIERRA,Damage,48.4,6.0,2.6
+Diamond,SOJOURN,Damage,46.1,15.5,2.3
+Diamond,SOLDIER: 76,Damage,50.3,15.6,0.4
+Diamond,SOMBRA,Damage,47.2,4.0,4.7
+Diamond,SYMMETRA,Damage,50.2,1.9,0.8
+Diamond,Torbjörn,Damage,50.2,3.8,0.4
+Diamond,TRACER,Damage,51.2,16.6,11.4
+Diamond,VENDETTA,Damage,54.4,5.5,3.9
+Diamond,VENTURE,Damage,51.3,2.2,0.4
+Diamond,WIDOWMAKER,Damage,51.2,5.9,10.4
+Diamond,ANA,Support,50.6,43.7,9.1
+Diamond,BAPTISTE,Support,49.8,8.7,0.1
+Diamond,BRIGITTE,Support,51.6,7.9,0.4
+Diamond,ILLARI,Support,50.3,3.8,0.1
+Diamond,JETPACK CAT,Support,51.5,5.7,63.4
+Diamond,JUNO,Support,51.5,20.9,0.3
+Diamond,KIRIKO,Support,43.6,30.8,6.1
+Diamond,LIFEWEAVER,Support,49.2,9.6,0.6
+Diamond,LUCIO,Support,51.8,6.2,0.3
+Diamond,MERCY,Support,51.5,13.8,8.8
+Diamond,MIZUKI,Support,48.8,11.4,11.3
+Diamond,MOIRA,Support,49.0,18.1,1.1
+Diamond,WUYANG,Support,52.2,7.7,0.1
+Diamond,ZENYATTA,Support,51.7,11.3,2.8
+Masters,D.MON,Tank,56.8,8.1,52.9
+Masters,D.VA,Tank,47.6,5.7,7.3
+Masters,DOMINA,Tank,53.0,2.2,0.4
+Masters,DOOMFIST,Tank,49.6,12.1,15.1
+Masters,HAZARD,Tank,50.8,6.7,8.5
+Masters,JUNKER QUEEN,Tank,52.6,5.3,0.5
+Masters,MAUGA,Tank,45.0,4.6,25.1
+Masters,ORISA,Tank,47.4,6.3,4.4
+Masters,RAMATTRA,Tank,46.7,3.8,1.5
+Masters,REINHARDT,Tank,49.9,7.8,1.3
+Masters,ROADHOG,Tank,47.7,6.0,19.6
+Masters,SIGMA,Tank,49.8,7.6,3.8
+Masters,WINSTON,Tank,52.6,11.0,2.2
+Masters,WRECKING BALL,Tank,46.7,5.7,6.2
+Masters,ZARYA,Tank,48.0,6.7,17.6
+Masters,ANRAN,Damage,51.1,4.2,3.1
+Masters,ASHE,Damage,52.5,9.4,0.6
+Masters,BASTION,Damage,47.8,6.2,2.3
+Masters,CASSIDY,Damage,47.4,27.2,20.4
+Masters,ECHO,Damage,50.4,4.3,0.3
+Masters,EMRE,Damage,48.4,5.5,0.1
+Masters,FREJA,Damage,48.1,5.0,42.1
+Masters,GENJI,Damage,50.0,16.5,2.2
+Masters,HANZO,Damage,49.7,4.9,0.6
+Masters,JUNKRAT,Damage,51.9,3.9,1.0
+Masters,MEI,Damage,51.0,4.0,0.6
+Masters,PHARAH,Damage,53.9,4.0,3.0
+Masters,REAPER,Damage,49.3,8.8,1.7
+Masters,SHION,Damage,50.8,15.8,0.8
+Masters,SIERRA,Damage,46.7,3.3,0.6
+Masters,SOJOURN,Damage,46.7,18.0,2.0
+Masters,SOLDIER: 76,Damage,50.9,14.1,0.4
+Masters,SOMBRA,Damage,47.9,3.1,0.9
+Masters,SYMMETRA,Damage,50.5,1.8,0.5
+Masters,Torbjörn,Damage,48.0,3.8,0.3
+Masters,TRACER,Damage,51.3,22.6,14.4
+Masters,VENDETTA,Damage,53.5,5.3,3.3
+Masters,VENTURE,Damage,51.9,1.9,0.2
+Masters,WIDOWMAKER,Damage,49.5,6.0,10.0
+Masters,ANA,Support,51.3,44.1,9.4
+Masters,BAPTISTE,Support,50.6,8.6,0.1
+Masters,BRIGITTE,Support,52.9,10.8,0.6
+Masters,ILLARI,Support,51.2,4.0,0.1
+Masters,JETPACK CAT,Support,52.0,6.1,73.8
+Masters,JUNO,Support,51.2,19.6,0.3
+Masters,KIRIKO,Support,44.1,35.4,8.6
+Masters,LIFEWEAVER,Support,48.7,7.4,0.5
+Masters,LUCIO,Support,50.9,8.5,0.5
+Masters,MERCY,Support,50.7,12.4,7.0
+Masters,MIZUKI,Support,48.9,11.1,11.9
+Masters,MOIRA,Support,49.6,13.4,0.6
+Masters,WUYANG,Support,51.6,8.9,0.1
+Masters,ZENYATTA,Support,49.9,9.6,2.2
+Grandmaster / Top 500,D.MON,Tank,57.9,9.2,58.5
+Grandmaster / Top 500,D.VA,Tank,46.7,6.7,6.9
+Grandmaster / Top 500,DOMINA,Tank,53.4,2.4,0.2
+Grandmaster / Top 500,DOOMFIST,Tank,49.5,10.2,11.5
+Grandmaster / Top 500,HAZARD,Tank,53.4,8.5,9.5
+Grandmaster / Top 500,JUNKER QUEEN,Tank,50.6,3.2,0.4
+Grandmaster / Top 500,MAUGA,Tank,44.1,4.7,23.6
+Grandmaster / Top 500,ORISA,Tank,47.8,8.9,5.5
+Grandmaster / Top 500,RAMATTRA,Tank,45.7,3.5,0.8
+Grandmaster / Top 500,REINHARDT,Tank,50.8,6.4,1.9
+Grandmaster / Top 500,ROADHOG,Tank,47.3,5.4,15.5
+Grandmaster / Top 500,SIGMA,Tank,48.4,7.7,3.2
+Grandmaster / Top 500,WINSTON,Tank,50.8,10.3,1.3
+Grandmaster / Top 500,WRECKING BALL,Tank,48.6,5.9,4.0
+Grandmaster / Top 500,ZARYA,Tank,50.5,6.8,14.8
+Grandmaster / Top 500,ANRAN,Damage,48.0,2.8,0.6
+Grandmaster / Top 500,ASHE,Damage,52.6,7.1,0.2
+Grandmaster / Top 500,BASTION,Damage,47.9,5.0,1.7
+Grandmaster / Top 500,CASSIDY,Damage,50.2,29.1,24.2
+Grandmaster / Top 500,ECHO,Damage,51.7,4.8,0.2
+Grandmaster / Top 500,EMRE,Damage,48.6,4.9,0.1
+Grandmaster / Top 500,FREJA,Damage,46.2,4.8,36.7
+Grandmaster / Top 500,GENJI,Damage,48.6,11.9,0.5
+Grandmaster / Top 500,HANZO,Damage,48.0,4.2,0.4
+Grandmaster / Top 500,JUNKRAT,Damage,52.5,4.4,1.6
+Grandmaster / Top 500,MEI,Damage,46.9,2.7,0.4
+Grandmaster / Top 500,PHARAH,Damage,53.4,3.9,2.7
+Grandmaster / Top 500,REAPER,Damage,49.9,8.7,1.8
+Grandmaster / Top 500,SHION,Damage,49.4,21.1,1.3
+Grandmaster / Top 500,SIERRA,Damage,43.5,1.5,0.2
+Grandmaster / Top 500,SOJOURN,Damage,47.8,19.8,1.2
+Grandmaster / Top 500,SOLDIER: 76,Damage,52.2,10.9,0.6
+Grandmaster / Top 500,SOMBRA,Damage,47.1,1.7,0.2
+Grandmaster / Top 500,SYMMETRA,Damage,51.4,1.6,0.2
+Grandmaster / Top 500,Torbjörn,Damage,47.7,4.5,0.5
+Grandmaster / Top 500,TRACER,Damage,51.8,30.3,16.6
+Grandmaster / Top 500,VENDETTA,Damage,52.1,5.4,3.6
+Grandmaster / Top 500,VENTURE,Damage,50.0,1.6,0.2
+Grandmaster / Top 500,WIDOWMAKER,Damage,48.7,7.0,8.4
+Grandmaster / Top 500,ANA,Support,51.0,43.7,11.5
+Grandmaster / Top 500,BAPTISTE,Support,52.0,9.6,0.2
+Grandmaster / Top 500,BRIGITTE,Support,51.1,12.7,1.0
+Grandmaster / Top 500,ILLARI,Support,52.3,5.5,0.2
+Grandmaster / Top 500,JETPACK CAT,Support,53.7,7.1,81.3
+Grandmaster / Top 500,JUNO,Support,50.1,14.1,0.2
+Grandmaster / Top 500,KIRIKO,Support,45.7,41.4,13.3
+Grandmaster / Top 500,LIFEWEAVER,Support,48.7,5.4,0.4
+Grandmaster / Top 500,LUCIO,Support,50.9,13.5,1.3
+Grandmaster / Top 500,MERCY,Support,48.9,8.1,2.7
+Grandmaster / Top 500,MIZUKI,Support,47.9,10.0,10.8
+Grandmaster / Top 500,MOIRA,Support,49.3,10.9,0.4
+Grandmaster / Top 500,WUYANG,Support,51.0,10.5,0.3
+Grandmaster / Top 500,ZENYATTA,Support,50.7,7.4,1.6
